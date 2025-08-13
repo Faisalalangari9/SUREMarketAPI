@@ -1,0 +1,6 @@
+@SUREMarketAPI_HostAddress = http://localhost:5261
+
+GET {{SUREMarketAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
