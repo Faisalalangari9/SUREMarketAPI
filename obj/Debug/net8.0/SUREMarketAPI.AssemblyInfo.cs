@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SUREMarketAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5461a0b9c952046bbf8b21c57083278d615ac341")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ef7fd60dc10ed66b7b2e1ead82f095263eb316")]
 [assembly: System.Reflection.AssemblyProductAttribute("SUREMarketAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SUREMarketAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
